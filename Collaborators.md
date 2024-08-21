@@ -1,5 +1,6 @@
-# Join our collaboration for CS 131
+# Join our collaboration for CS 130
 Below add your name and your favorite restaurant
 <br>
 Name(include last)      Favorite restaurant <br>
 ~                                                       
+Aaron D'Souza      ,    BJ's Steakhouse
