@@ -4,4 +4,4 @@ Below add your name and your favorite restaurant
 Name(include last)      Favorite restaurant <br>
 ~                                                       
 Michael Huh             Krung Thai
-Davis Nguyen            Khao San
+Davis Nguyen            Khao Sa
