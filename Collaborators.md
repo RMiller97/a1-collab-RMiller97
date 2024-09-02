@@ -7,3 +7,5 @@ Michael Huh             Krung Thai
 
 Lawton Fong				In-N-Out
 
+Averi Tanlimco          Eastlake
+
