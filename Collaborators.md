@@ -9,5 +9,7 @@ Aaron D'Souza      ,    BJ's Steakhouse <br>
 Michael Huh             Krung Thai. <br>
 Daniel Chang            Home Eats<br>
 Averi Tanlimco          Eastlake<br>
-Bowen Ni                Xiaoxiangge
+Bowen Ni                Xiaoxiangge<br>
+Lawton Fong				      In-N-Out
+
 
